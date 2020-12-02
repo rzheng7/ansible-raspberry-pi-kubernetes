@@ -1,6 +1,5 @@
 [controlplane]
-10.42.0.200 new_hostname=cl0
+192.168.86.26 new_hostname=k8m
 [workers]
-10.42.0.201 new_hostname=cl1
-10.42.0.202 new_hostname=cl2
-10.42.0.203 new_hostname=cl3
+192.168.86.12 new_hostname=k8w1
+192.168.86.41 new_hostname=k8w2
